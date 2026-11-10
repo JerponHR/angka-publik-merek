@@ -1,0 +1,26 @@
+# Tiap hari 06.40 dan 07.40 WIB (23.40 dan 00.40 UTC): ambil halaman publik TikTok tiap akun merek tanpa login dan simpan
+# hasilnya di data/tiktok-publik.json. Worker laporan membaca berkas itu. Tidak memakai token atau rahasia apa pun.
+name: TikTok publik ke laporan
+on:
+  schedule:
+    - cron: '40 23 * * *'
+    - cron: '40 0 * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  ambil:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node ambil.mjs --berkas data/tiktok-publik.json
+      - run: |
+          git config user.name "laporan-merek"
+          git config user.email "laporan-merek@users.noreply.github.com"
+          git add data/tiktok-publik.json
+          git diff --cached --quiet || git commit -m "angka publik TikTok $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
