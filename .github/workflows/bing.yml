@@ -1,0 +1,23 @@
+# Tiap hari 06.20 dan 07.50 WIB (23.20 dan 00.50 UTC): baca Bing Webmaster empat situs merek dan kirim ke worker laporan
+# lewat pintu bertanda tangan. Tidak menulis apa pun ke repo; log hanya memuat status dan nama medan, tanpa angka.
+name: Bing Webmaster ke laporan
+on:
+  schedule:
+    - cron: '20 23 * * *'
+    - cron: '50 0 * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: read
+jobs:
+  bing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node bing.mjs
+        env:
+          BING_WEBMASTER_KEY: ${{ secrets.BING_WEBMASTER_KEY }}
+          LAPORAN_MASUK_SECRET: ${{ secrets.LAPORAN_MASUK_SECRET }}
