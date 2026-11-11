@@ -1,11 +1,14 @@
-# Tiap hari 06.20 dan 07.50 WIB (23.20 dan 00.50 UTC): baca Bing Webmaster empat situs merek dan kirim ke worker laporan
+# Tiap hari 06.21 dan 07.51 WIB (23.21 dan 00.51 UTC): baca Bing Webmaster empat situs merek dan kirim ke worker laporan
 # lewat pintu bertanda tangan. Tidak menulis apa pun ke repo; log hanya memuat status dan nama medan, tanpa angka.
 name: Bing Webmaster ke laporan
 on:
   schedule:
-    - cron: '20 23 * * *'
-    - cron: '50 0 * * *'
+    - cron: '21 23 * * *'
+    - cron: '51 0 * * *'
   workflow_dispatch: {}
+concurrency:
+  group: bing
+  cancel-in-progress: false
 permissions:
   contents: read
 jobs:
