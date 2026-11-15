@@ -1,12 +1,12 @@
 {
  "versi": 1,
- "dibuatAt": "2026-11-15T03:05:53.734Z",
+ "dibuatAt": "2026-11-15T07:07:39.062Z",
  "akun": {
   "evora:evora.circle": {
    "versi": 1,
    "merek": "evora",
    "handle": "@evora.circle",
-   "dibacaAt": "2026-11-15T03:05:51.189Z",
+   "dibacaAt": "2026-11-15T07:07:37.101Z",
    "pengikut": 1995,
    "suka": 19,
    "video": [
@@ -41,8 +41,8 @@
    "versi": 1,
    "merek": "pokebawl",
    "handle": "@pokebawl0",
-   "dibacaAt": "2026-11-15T03:05:52.523Z",
-   "pengikut": 6968,
+   "dibacaAt": "2026-11-15T07:07:38.084Z",
+   "pengikut": 6967,
    "suka": 10800,
    "video": [
     {
@@ -76,7 +76,7 @@
    "versi": 1,
    "merek": "pokebawl",
    "handle": "@pokebawl1",
-   "dibacaAt": "2026-11-15T03:05:53.059Z",
+   "dibacaAt": "2026-11-15T07:07:38.653Z",
    "pengikut": 5587,
    "suka": 5191,
    "video": [
@@ -111,7 +111,7 @@
    "versi": 1,
    "merek": "firstclass",
    "handle": "@firstclass.tattoo",
-   "dibacaAt": "2026-11-15T03:05:53.734Z",
+   "dibacaAt": "2026-11-15T07:07:39.062Z",
    "pengikut": 10100,
    "suka": 173000,
    "video": [
@@ -123,7 +123,7 @@
     {
      "id": "7706163867293895956",
      "terbit": "2026-11-09",
-     "tayang": 1008
+     "tayang": 1010
     },
     {
      "id": "7699836034254900501",
