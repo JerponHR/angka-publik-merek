@@ -1,12 +1,12 @@
 {
  "versi": 1,
- "dibuatAt": "2026-11-20T07:42:40.434Z",
+ "dibuatAt": "2026-11-21T04:17:20.059Z",
  "akun": {
   "evora:evora.circle": {
    "versi": 1,
    "merek": "evora",
    "handle": "@evora.circle",
-   "dibacaAt": "2026-11-20T07:42:38.686Z",
+   "dibacaAt": "2026-11-21T04:17:17.755Z",
    "pengikut": 1995,
    "suka": 19,
    "video": [
@@ -41,34 +41,34 @@
    "versi": 1,
    "merek": "pokebawl",
    "handle": "@pokebawl0",
-   "dibacaAt": "2026-11-20T07:42:39.483Z",
-   "pengikut": 6955,
+   "dibacaAt": "2026-11-21T04:17:18.920Z",
+   "pengikut": 6956,
    "suka": 10800,
    "video": [
     {
      "id": "7709478807136210196",
      "terbit": "2026-11-18",
-     "tayang": 81
+     "tayang": 89
     },
     {
      "id": "7709476717777440021",
      "terbit": "2026-11-18",
-     "tayang": 198
+     "tayang": 208
     },
     {
      "id": "7709130182128373012",
      "terbit": "2026-11-17",
-     "tayang": 198
+     "tayang": 207
     },
     {
      "id": "7709130085927783700",
      "terbit": "2026-11-17",
-     "tayang": 233
+     "tayang": 238
     },
     {
      "id": "7708830066360208661",
      "terbit": "2026-11-17",
-     "tayang": 489
+     "tayang": 493
     }
    ]
   },
@@ -76,29 +76,29 @@
    "versi": 1,
    "merek": "pokebawl",
    "handle": "@pokebawl1",
-   "dibacaAt": "2026-11-20T07:42:39.849Z",
-   "pengikut": 5575,
-   "suka": 5192,
+   "dibacaAt": "2026-11-21T04:17:19.568Z",
+   "pengikut": 5576,
+   "suka": 5196,
    "video": [
     {
      "id": "7697022829937691924",
      "terbit": "2026-10-16",
-     "tayang": 244
+     "tayang": 247
     },
     {
      "id": "7683924791597829396",
      "terbit": "2026-09-10",
-     "tayang": 668
+     "tayang": 669
     },
     {
      "id": "7683579890431429908",
      "terbit": "2026-09-09",
-     "tayang": 600
+     "tayang": 602
     },
     {
      "id": "7683573485574147349",
      "terbit": "2026-09-09",
-     "tayang": 245
+     "tayang": 246
     },
     {
      "id": "7683569855039114517",
@@ -111,24 +111,24 @@
    "versi": 1,
    "merek": "firstclass",
    "handle": "@firstclass.tattoo",
-   "dibacaAt": "2026-11-20T07:42:40.434Z",
+   "dibacaAt": "2026-11-21T04:17:20.059Z",
    "pengikut": 10100,
    "suka": 173100,
    "video": [
     {
      "id": "7706883759253048597",
      "terbit": "2026-11-11",
-     "tayang": 397
+     "tayang": 401
     },
     {
      "id": "7706163867293895956",
      "terbit": "2026-11-09",
-     "tayang": 1126
+     "tayang": 1127
     },
     {
      "id": "7699836034254900501",
      "terbit": "2026-10-23",
-     "tayang": 2334
+     "tayang": 2335
     },
     {
      "id": "7698704087042379028",
