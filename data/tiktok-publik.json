@@ -1,12 +1,12 @@
 {
  "versi": 1,
- "dibuatAt": "2026-11-22T03:30:08.480Z",
+ "dibuatAt": "2026-11-22T07:24:39.585Z",
  "akun": {
   "evora:evora.circle": {
    "versi": 1,
    "merek": "evora",
    "handle": "@evora.circle",
-   "dibacaAt": "2026-11-22T03:30:05.528Z",
+   "dibacaAt": "2026-11-22T07:24:37.596Z",
    "pengikut": 1995,
    "suka": 19,
    "video": [
@@ -41,14 +41,14 @@
    "versi": 1,
    "merek": "pokebawl",
    "handle": "@pokebawl0",
-   "dibacaAt": "2026-11-22T03:30:07.159Z",
+   "dibacaAt": "2026-11-22T07:24:38.663Z",
    "pengikut": 6951,
    "suka": 10800,
    "video": [
     {
      "id": "7709478807136210196",
      "terbit": "2026-11-18",
-     "tayang": 95
+     "tayang": 96
     },
     {
      "id": "7709476717777440021",
@@ -76,8 +76,8 @@
    "versi": 1,
    "merek": "pokebawl",
    "handle": "@pokebawl1",
-   "dibacaAt": "2026-11-22T03:30:07.787Z",
-   "pengikut": 5573,
+   "dibacaAt": "2026-11-22T07:24:39.153Z",
+   "pengikut": 5571,
    "suka": 5196,
    "video": [
     {
@@ -111,34 +111,34 @@
    "versi": 1,
    "merek": "firstclass",
    "handle": "@firstclass.tattoo",
-   "dibacaAt": "2026-11-22T03:30:08.480Z",
+   "dibacaAt": "2026-11-22T07:24:39.585Z",
    "pengikut": 10100,
    "suka": 173200,
    "video": [
     {
      "id": "7706883759253048597",
      "terbit": "2026-11-11",
-     "tayang": 411
+     "tayang": 413
     },
     {
      "id": "7706163867293895956",
      "terbit": "2026-11-09",
-     "tayang": 1141
+     "tayang": 1143
     },
     {
      "id": "7699836034254900501",
      "terbit": "2026-10-23",
-     "tayang": 2339
+     "tayang": 2341
     },
     {
      "id": "7698704087042379028",
      "terbit": "2026-10-20",
-     "tayang": 698
+     "tayang": 700
     },
     {
      "id": "7697607923513511189",
      "terbit": "2026-10-17",
-     "tayang": 890
+     "tayang": 892
     }
    ]
   }
