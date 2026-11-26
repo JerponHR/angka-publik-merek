@@ -1,12 +1,12 @@
 {
  "versi": 1,
- "dibuatAt": "2026-11-25T09:04:23.904Z",
+ "dibuatAt": "2026-11-26T05:28:18.030Z",
  "akun": {
   "evora:evora.circle": {
    "versi": 1,
    "merek": "evora",
    "handle": "@evora.circle",
-   "dibacaAt": "2026-11-25T09:04:21.978Z",
+   "dibacaAt": "2026-11-26T05:28:15.319Z",
    "pengikut": 1995,
    "suka": 19,
    "video": [
@@ -41,19 +41,19 @@
    "versi": 1,
    "merek": "pokebawl",
    "handle": "@pokebawl0",
-   "dibacaAt": "2026-11-25T09:04:22.950Z",
-   "pengikut": 6944,
+   "dibacaAt": "2026-11-26T05:28:16.704Z",
+   "pengikut": 6942,
    "suka": 10800,
    "video": [
     {
      "id": "7709478807136210196",
      "terbit": "2026-11-18",
-     "tayang": 137
+     "tayang": 139
     },
     {
      "id": "7709476717777440021",
      "terbit": "2026-11-18",
-     "tayang": 232
+     "tayang": 233
     },
     {
      "id": "7709130182128373012",
@@ -63,12 +63,12 @@
     {
      "id": "7709130085927783700",
      "terbit": "2026-11-17",
-     "tayang": 258
+     "tayang": 260
     },
     {
      "id": "7708830066360208661",
      "terbit": "2026-11-17",
-     "tayang": 511
+     "tayang": 517
     }
    ]
   },
@@ -76,19 +76,19 @@
    "versi": 1,
    "merek": "pokebawl",
    "handle": "@pokebawl1",
-   "dibacaAt": "2026-11-25T09:04:23.453Z",
-   "pengikut": 5569,
+   "dibacaAt": "2026-11-26T05:28:17.442Z",
+   "pengikut": 5568,
    "suka": 5196,
    "video": [
     {
      "id": "7697022829937691924",
      "terbit": "2026-10-16",
-     "tayang": 252
+     "tayang": 254
     },
     {
      "id": "7683924791597829396",
      "terbit": "2026-09-10",
-     "tayang": 674
+     "tayang": 675
     },
     {
      "id": "7683579890431429908",
@@ -111,34 +111,34 @@
    "versi": 1,
    "merek": "firstclass",
    "handle": "@firstclass.tattoo",
-   "dibacaAt": "2026-11-25T09:04:23.904Z",
+   "dibacaAt": "2026-11-26T05:28:18.030Z",
    "pengikut": 10100,
    "suka": 173200,
    "video": [
     {
      "id": "7706883759253048597",
      "terbit": "2026-11-11",
-     "tayang": 433
+     "tayang": 436
     },
     {
      "id": "7706163867293895956",
      "terbit": "2026-11-09",
-     "tayang": 1162
+     "tayang": 1168
     },
     {
      "id": "7699836034254900501",
      "terbit": "2026-10-23",
-     "tayang": 2351
+     "tayang": 2354
     },
     {
      "id": "7698704087042379028",
      "terbit": "2026-10-20",
-     "tayang": 705
+     "tayang": 707
     },
     {
      "id": "7697607923513511189",
      "terbit": "2026-10-17",
-     "tayang": 895
+     "tayang": 896
     }
    ]
   }
