@@ -1,12 +1,12 @@
 {
  "versi": 1,
- "dibuatAt": "2026-11-28T04:57:38.529Z",
+ "dibuatAt": "2026-11-28T08:23:53.241Z",
  "akun": {
   "evora:evora.circle": {
    "versi": 1,
    "merek": "evora",
    "handle": "@evora.circle",
-   "dibacaAt": "2026-11-28T04:57:36.163Z",
+   "dibacaAt": "2026-11-28T08:23:51.519Z",
    "pengikut": 1995,
    "suka": 19,
    "video": [
@@ -41,19 +41,19 @@
    "versi": 1,
    "merek": "pokebawl",
    "handle": "@pokebawl0",
-   "dibacaAt": "2026-11-28T04:57:37.490Z",
+   "dibacaAt": "2026-11-28T08:23:52.354Z",
    "pengikut": 6933,
    "suka": 10800,
    "video": [
     {
      "id": "7709478807136210196",
      "terbit": "2026-11-18",
-     "tayang": 151
+     "tayang": 152
     },
     {
      "id": "7709476717777440021",
      "terbit": "2026-11-18",
-     "tayang": 243
+     "tayang": 246
     },
     {
      "id": "7709130182128373012",
@@ -63,7 +63,7 @@
     {
      "id": "7709130085927783700",
      "terbit": "2026-11-17",
-     "tayang": 270
+     "tayang": 272
     },
     {
      "id": "7708830066360208661",
@@ -76,29 +76,29 @@
    "versi": 1,
    "merek": "pokebawl",
    "handle": "@pokebawl1",
-   "dibacaAt": "2026-11-28T04:57:38.032Z",
+   "dibacaAt": "2026-11-28T08:23:52.819Z",
    "pengikut": 5564,
    "suka": 5208,
    "video": [
     {
      "id": "7712519722864102676",
      "terbit": "2026-11-26",
-     "tayang": 120
+     "tayang": 121
     },
     {
      "id": "7712518751169580309",
      "terbit": "2026-11-26",
-     "tayang": 221
+     "tayang": 224
     },
     {
      "id": "7712516661554728212",
      "terbit": "2026-11-26",
-     "tayang": 58
+     "tayang": 67
     },
     {
      "id": "7712516035554970932",
      "terbit": "2026-11-26",
-     "tayang": 148
+     "tayang": 149
     },
     {
      "id": "7697022829937691924",
@@ -111,7 +111,7 @@
    "versi": 1,
    "merek": "firstclass",
    "handle": "@firstclass.tattoo",
-   "dibacaAt": "2026-11-28T04:57:38.529Z",
+   "dibacaAt": "2026-11-28T08:23:53.241Z",
    "pengikut": 10100,
    "suka": 173300,
    "video": [
@@ -123,12 +123,12 @@
     {
      "id": "7706163867293895956",
      "terbit": "2026-11-09",
-     "tayang": 1179
+     "tayang": 1180
     },
     {
      "id": "7699836034254900501",
      "terbit": "2026-10-23",
-     "tayang": 2364
+     "tayang": 2365
     },
     {
      "id": "7698704087042379028",
